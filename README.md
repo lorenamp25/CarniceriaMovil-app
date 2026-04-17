@@ -3,7 +3,7 @@
 
 # 🛒 Carnicería Móvil App
 <p align="center">
-  <img src="./preview.png" width="300"/>
+  <img src="./foto.png" width="300"/>
 </p>
 Aplicación web tipo e-commerce inspirada en plataformas como Uber Eats, desarrollada con React y optimizada para dispositivos móviles.
 
